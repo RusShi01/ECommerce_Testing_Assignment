@@ -1,0 +1,19 @@
+ Add to Cart button NOT FOUND: Delicate Oil-Free Powder Blush | URL: https://automationteststore.com/index.php?rt=product/product&path=36&product_id=57
+ Add to Cart button NOT FOUND: Tropiques Minerale Loose Bronzer | URL: https://automationteststore.com/index.php?rt=product/product&path=36&product_id=53
+✅ ADDED TO CART:
+   Name     : Waterproof Protective Undereye Concealer
+   Quantity : 1
+   Price    : $30.50
+   URL      : https://automationteststore.com/index.php?rt=product/product&product_id=56&key=56:a773f20a916057ab8da2049add98f907
+
+✅ ADDED TO CART:
+   Name     : Waterproof Protective Undereye Concealer
+   Quantity : 1
+   Price    : $30.50
+   URL      : https://automationteststore.com/index.php?rt=product/product&product_id=56&key=56:a773f20a916057ab8da2049add98f907
+
+❌ Add to Cart button NOT FOUND: L'EXTRÊME Instant Extensions Lengthening Mascara | URL: https://automationteststore.com/index.php?rt=product/product&path=36&product_id=54
+❌ OUT OF STOCK: Product with stock locations | URL: https://automationteststore.com/index.php?rt=product/product&path=36&product_id=58
+❌ Add to Cart button NOT FOUND: L'EXTRÊME Instant Extensions Lengthening Mascara | URL: https://automationteststore.com/index.php?rt=product/product&path=36&product_id=54
+❌ OUT OF STOCK: Product with stock locations | URL: https://automationteststore.com/index.php?rt=product/product&path=36&product_id=58
+❌ Failed to add product to cart.
